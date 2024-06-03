@@ -1,4 +1,4 @@
-public class DevopsExample
+public class 2020WA86287_Devops_Example
   {
     public static void main(String[] args)
     {
